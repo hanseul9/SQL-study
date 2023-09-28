@@ -1,6 +1,6 @@
 📅
 - Postgresql와 날짜함수 
-Postgresql에서는 DATEDIFF가 없는 대신 
+Postgresql에서는 DATEDIFF가 없음)
 
 1. EXTRACT()  
 	- 특정 날짜를 추출. year/month/day와 같은 요소를 추출/검색하는 함수
