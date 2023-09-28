@@ -1,5 +1,5 @@
 📅
-- Postgresql와 날짜함수 
+- Postgresql와 날짜함수  
 Postgresql에서는 DATEDIFF가 없음)
 
 1. EXTRACT()  
